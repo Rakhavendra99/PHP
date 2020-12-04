@@ -8,7 +8,4 @@
 	echo age;
 	define ("$age","21"); //Warning: Undefined variable $age
 	echo $age;
-	
-	
-
 ?>
